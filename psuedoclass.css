@@ -1,0 +1,42 @@
+a:link {
+    color: rgb(251, 255, 29);
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: yellow;
+}
+
+button:hover {
+    background-color: lightgrey;
+}
+
+button:active {
+    background-color: white;
+}
+
+/* li:nth-child(1) {
+    background-color: yellow;
+} */
+
+/* li:nth-child(even) {
+    background-color: skyblue;
+}
+
+li:nth-child(odd) {
+    background-color: powderblue;
+} */
+
+
+/* Every third element is highlighed 
+    You can enter a formula in the input*/
+li:nth-child(3n + 1) {
+    background-color: powderblue;
+}

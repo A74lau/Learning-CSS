@@ -1,0 +1,40 @@
+
+/* TAG */
+body{
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    background-color: green;
+    color: white;
+}
+
+
+/* ID */
+#p1 {
+    color: tomato
+}
+
+#p2 {
+    color:purple
+}
+
+#p3 {
+    color:blue
+}
+
+/* CLASS */
+.odd {
+    color:green;
+}
+
+.even {
+    color:red;
+}
+
+
+

@@ -1,0 +1,19 @@
+body {
+    background-image: url("legacy.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: to center;
+    background-size: cover;
+}
+
+h1 {
+    background: linear-gradient(to right, rgb(236, 130, 9), rgb(15, 2, 2));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    background: linear-gradient(to right, rgb(236, 130, 9), rgb(15, 2, 2));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
